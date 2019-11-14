@@ -1,0 +1,15 @@
+[
+
+{
+	"name": "Cat",
+	"image": "https://raw.githubusercontent.com/haseebpvt/Animal-API/master/data/cat/images/persian_cat.jpg",
+	"url": "https://raw.githubusercontent.com/haseebpvt/Animal-API/master/data/cat/cat_list.json"
+},
+
+{
+	"name": "Dog",
+	"image": "https://raw.githubusercontent.com/haseebpvt/Animal-API/master/data/dog/images/labrador_retriver.jpg",
+	"url": "https://raw.githubusercontent.com/haseebpvt/Animal-API/master/data/dog/dog_list.json"
+},
+
+]
