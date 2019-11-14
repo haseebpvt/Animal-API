@@ -2,27 +2,27 @@
 
 {
 	"name": "Persian cat",
-	"image": ""
+	"image": "https://raw.githubusercontent.com/haseebpvt/Animal-API/master/cat/images/persian_cat.jpg"
 },
 
 {
 	"name": "Russian Blue",
-	"image": ""
+	"image": "https://raw.githubusercontent.com/haseebpvt/Animal-API/master/cat/images/russian_blue.jpg"
 },
 
 {
 	"name": "Bengal cat",
-	"image": ""
+	"image": "https://raw.githubusercontent.com/haseebpvt/Animal-API/master/cat/images/bengal_blue.jpeg"
 },
 
 {
 	"name": "British Shorthair",
-	"image": ""
+	"image": "https://raw.githubusercontent.com/haseebpvt/Animal-API/master/cat/images/british_shorthairs.jpeg"
 },
 
 {
 	"name": "Maine Coon",
-	"image": ""
+	"image": "https://raw.githubusercontent.com/haseebpvt/Animal-API/master/cat/images/maine_coon.jpg"
 },
 
 ]

@@ -2,27 +2,27 @@
 
 {
 	"name": "Labrador Retriever",
-	"image": ""
+	"image": "https://raw.githubusercontent.com/haseebpvt/Animal-API/master/dog/images/labrador_retriver.jpg"
 },
 
 {
 	"name": "Pug",
-	"image": ""
+	"image": "https://raw.githubusercontent.com/haseebpvt/Animal-API/master/dog/images/pug.jpg"
 },
 
 {
 	"name": "Siberian Husky",
-	"image": ""
+	"image": "https://raw.githubusercontent.com/haseebpvt/Animal-API/master/dog/images/siberian_husky.jpg"
 },
 
 {
 	"name": "Beagle",
-	"image": ""
+	"image": "https://raw.githubusercontent.com/haseebpvt/Animal-API/master/dog/images/beagle.jpg"
 },
 
 {
 	"name": "Pomeranian",
-	"image": ""
+	"image": "https://raw.githubusercontent.com/haseebpvt/Animal-API/master/dog/images/pomeranian.jpg"
 },
 
 ]
