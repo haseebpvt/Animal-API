@@ -3,7 +3,7 @@
 
 {
 	"name": "Labrador Retriever",
-	"image": "https://raw.githubusercontent.com/haseebpvt/Animal-API/master/data/dog/images/labrador_retriver.jpg"
+	"image": "https://raw.githubusercontent.com/haseebpvt/Animal-API/master/data/dog/images/labrador_retriver.jpeg"
 },
 
 {
@@ -23,7 +23,7 @@
 
 {
 	"name": "Pomeranian",
-	"image": "https://raw.githubusercontent.com/haseebpvt/Animal-API/master/data/dog/images/pomeranian.jpg"
+	"image": "https://raw.githubusercontent.com/haseebpvt/Animal-API/master/data/dog/images/pomeranian.jpeg"
 },
 
 ]
